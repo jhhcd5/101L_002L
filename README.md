@@ -1,2 +1,4 @@
 # 101L_002L
- python programming skills
+name: jefferson hartman
+Contact: jhhcd5@umsystem.edu
+Designation: student
